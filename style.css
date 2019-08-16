@@ -3,3 +3,43 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  text-align: center;
+}
+
+#property_img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav ul {
+  background: purple;
+  text-align: center;
+}
+
+.nav li {
+  display: inline-block;
+}
+
+.nav a {
+  color: #fff;
+  width:150px;
+  display:block;
+  padding:15px;
+  font-size: 17px;
+  font-family: Helvetica;
+}
+
+figcaption {
+  text-align: center;
+  font-size: 10px;
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
